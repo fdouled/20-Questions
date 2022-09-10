@@ -1,0 +1,33 @@
+Assesement 7: QuestionsGame Reflection
+
+1) What did you learn from working on this 
+assignment?
+
+how to implement a binary tree effectivetly 
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+
+i struggle the most with debugging on this code
+to overcome i will be more intential about understadnign what the spcecifc bugs 
+are referring to
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+
+i will definetely use my practice on trees to make more 
+the process go faster next time
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+
+no the spec was clear and the diagram was helpful
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+
+about 5 hours
